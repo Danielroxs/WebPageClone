@@ -13,7 +13,7 @@ const Footer = () => {
             near you.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 55-38-07-60-06:{" "}
+            Or call 55-38-07-60-06 Luis Daniel Rodriguez Martinez:{" "}
           </p>
         </div>
 
